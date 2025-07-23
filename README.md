@@ -2,7 +2,9 @@
 <br>
 Aura is a modern, voice-activated AI assistant designed to streamline your daily interactions with your computer. Built with Python and Tkinter, Aura offers a intuitive and visually appealing user interface, supporting both voice commands and text input for a seamless user experience.
 <br>
+<br>
  Technologies Used :
+ <br>
 Python 3.x: The core programming language.
 
 Tkinter: Python's standard GUI toolkit for building the user interface.
