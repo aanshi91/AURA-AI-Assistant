@@ -5,20 +5,20 @@ Aura is a modern, voice-activated AI assistant designed to streamline your daily
 <br>
  Technologies Used :
  <br>
-Python 3.x: The core programming language.
+1.Python 3.x: The core programming language.
 
-Tkinter: Python's standard GUI toolkit for building the user interface.
+2.Tkinter: Python's standard GUI toolkit for building the user interface.
 
-Pillow (PIL Fork): For advanced image manipulation (loading, resizing, transparency) for UI elements and backgrounds.
+3.Pillow (PIL Fork): For advanced image manipulation (loading, resizing, transparency) for UI elements and backgrounds.
 
-SpeechRecognition: For converting spoken language into text (Speech-to-Text).
+4.SpeechRecognition: For converting spoken language into text (Speech-to-Text).
 
-pyttsx3 / gTTS (or similar): For converting text into spoken language (Text-to-Speech).
+5.pyttsx3 / gTTS (or similar): For converting text into spoken language (Text-to-Speech).
 
-SQLite3: For the local database to manage reminders.
+6.SQLite3: For the local database to manage reminders.
 
-Threading: To ensure the GUI remains responsive during long-running tasks like speech recognition or reminder checks.
+7.Threading: To ensure the GUI remains responsive during long-running tasks like speech recognition or reminder checks.
 
-datetime & time modules: For handling time-based operations like reminders.
+8.datetime & time modules: For handling time-based operations like reminders.
 
-math module: For implementing subtle UI animations.
+9.math module: For implementing subtle UI animations.
